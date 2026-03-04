@@ -1,0 +1,383 @@
+participant_id,trial,question_text,selected_number,option_side,confidence_strength,reaction_time_ms,timestamp
+P01,1,Which option do you think is correct?,10,Option2,5,4072,2026-02-24 18:47:05
+P01,2,Which statement seems more logical?,7,Option2,2,3427,2026-02-24 18:47:12
+P01,3,Which choice feels more probable?,10,Option2,5,976,2026-02-24 18:47:15
+P01,1,Which option do you think is correct?,2,Option1,4,4647,2026-02-24 18:57:08
+P01,2,Which statement seems more logical?,10,Option2,5,2722,2026-02-24 18:57:12
+P01,3,Which choice feels more probable?,5,Option1,1,1115,2026-02-24 18:57:14
+P01,1,Which option do you think is correct?,10,Option2,5,1864,2026-02-24 18:59:30
+P01,2,Which statement seems more logical?,7,Option2,2,998,2026-02-24 18:59:32
+P01,3,Which choice feels more probable?,4,Option1,2,1960,2026-02-24 18:59:35
+P01,1,Which option do you think is correct?,4,Option1,2,191040,2026-02-24 19:03:08
+P01,2,Which statement seems more logical?,4,Option1,2,3349,2026-02-24 19:03:13
+P01,3,Which choice feels more probable?,1,Option1,5,1033,2026-02-24 19:03:15
+P01,1,Which option do you think is correct?,2,Option1,4,1147,2026-02-24 19:06:04
+P01,2,Which statement seems more logical?,4,Option1,2,1093,2026-02-24 19:06:06
+P01,3,Which choice feels more probable?,1,Option1,5,2601,2026-02-24 19:06:09
+P01,1,Which option do you think is correct?,4,Option1,2,1579,2026-02-25 06:38:48
+P01,2,Which statement seems more logical?,1,Option1,5,2317,2026-02-25 06:38:52
+P01,3,Which choice feels more probable?,4,Option1,2,2254,2026-02-25 06:38:55
+P01,1,Which option do you think is correct?,8,Option2,3,2046,2026-02-25 06:39:59
+P01,2,Which statement seems more logical?,9,Option2,4,848,2026-02-25 06:40:01
+P01,3,Which choice feels more probable?,3,Option1,3,4432,2026-02-25 06:40:07
+P01,1,Which option do you think is correct?a.yesb.no,5,Option1,1,2232,2026-02-25 06:43:04
+P01,2,Which statement seems more logical?,1,Option1,5,2837,2026-02-25 06:43:11
+P01,3,Which choice feels more probable?,8,Option2,3,2184,2026-02-25 06:43:15
+P01,1,"Which option do you think is correct?
+a.yes
+b.no",5,Option1,1,1433,2026-02-25 06:43:45
+P01,2,Which statement seems more logical?,7,Option2,2,2011,2026-02-25 06:43:48
+P01,3,Which choice feels more probable?,1,Option1,5,891,2026-02-25 06:43:50
+P01,1,Which option do you think is correct?	a.yesb.no,6,Option2,1,1758,2026-02-25 06:44:31
+P01,2,Which statement seems more logical?,7,Option2,2,3121,2026-02-25 06:44:35
+P01,3,Which choice feels more probable?,10,Option2,5,3193,2026-02-25 06:44:39
+P01,1,"Which option do you think is correct?
+
+a. Yes
+b. No",3,Option1,3,1382,2026-02-25 06:46:37
+P01,2,Which statement seems more logical?,8,Option2,3,1038,2026-02-25 06:46:39
+P01,3,Which choice feels more probable?,9,Option2,4,876,2026-02-25 06:46:41
+P01,1,"Which option do you think is correct?
+
+a. Yes
+b. No",10,Option2,5,2797,2026-02-25 06:48:04
+P01,2,Which statement seems more logical?,10,Option2,5,1613,2026-02-25 06:48:07
+P01,3,Which choice feels more probable?,5,Option1,1,2587,2026-02-25 06:48:10
+P01,1,"Which approach is more time-efficient for searching in a sorted array 
+
+a. Linear Search
+ b. Binary Search",10,Option2,5,1383,2026-02-25 06:52:56
+P01,2,Which statement seems more logical?,9,Option2,4,1272,2026-02-25 06:52:59
+P01,3,Which choice feels more probable?,7,Option2,2,1553,2026-02-25 06:53:01
+P01,1,"Which approach is more time-efficient for searching in a sorted array 
+
+a. Linear Search
+ b. Binary Search",3,Option1,3,7241,2026-02-25 06:56:46
+P01,2,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",6,Option2,1,1517,2026-02-25 06:56:49
+P01,3,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",10,Option2,5,1204,2026-02-25 06:56:52
+P01,1,"Which approach is more time-efficient for searching in a sorted array 
+
+a. Linear Search
+ b. Binary Search",1,Option1,5,14626,2026-02-25 13:58:47
+P01,2,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",4,Option1,2,8121,2026-02-25 13:59:12
+P01,3,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",2,Option1,4,5048,2026-02-25 13:59:18
+P01,1,"Which approach is more time-efficient for searching in a sorted array 
+
+a. Linear Search
+ b. Binary Search",9,Option2,4,815,2026-02-25 14:00:32
+P01,2,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",8,Option2,3,1713,2026-02-25 14:00:35
+P01,3,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",8,Option2,3,1527,2026-02-25 14:00:37
+P01,1,"Which approach is more time-efficient for searching in a sorted array 
+
+a. Linear Search
+ b. Binary Search",4,Option1,2,1429,2026-02-25 23:10:46
+P01,2,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",10,Option2,5,1281,2026-02-25 23:10:48
+P01,3,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",10,Option2,5,1073,2026-02-25 23:10:51
+P01,1,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",10,Option2,5,1425,2026-02-25 23:18:00
+P01,2,Easy,"Which approach is more time-efficient for searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",8,Option2,3,1815,2026-02-25 23:18:05
+P01,3,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",2,Option1,4,1175,2026-02-25 23:18:10
+P01,1,Easy,"Which approach is more time-efficient for searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",9,Option2,4,1292,2026-02-25 23:18:52
+P01,2,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",10,Option2,5,1553,2026-02-25 23:18:59
+P01,3,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",10,Option2,5,1391,2026-02-25 23:19:03
+P01,1,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",10,Option2,5,1546,2026-02-25 23:20:00
+P01,2,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",10,Option2,5,1493,2026-02-25 23:20:08
+P01,3,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",10,Option2,5,3007,2026-02-25 23:20:19
+P01,1,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",9,Option2,4,1964,2026-02-25 23:20:45
+P01,2,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",4,Option1,2,1044,2026-02-25 23:20:49
+P01,3,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",10,Option2,5,1097,2026-02-25 23:20:52
+P01,1,Hard,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",6,Option2,1,1774,2026-02-25 23:24:08
+P01,2,Easy,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",6,Option2,1,2275,2026-02-25 23:24:13
+P01,3,Medium,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",6,Option2,1,1344,2026-02-25 23:24:18
+P01,1,Medium,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",6,Option2,1,1493,2026-02-25 23:24:27
+P01,2,Hard,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",10,Option2,5,1485,2026-02-25 23:24:32
+P01,3,Medium,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",10,Option2,5,1028,2026-02-25 23:24:36
+P01,1,Hard,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",2,Option1,4,6780,2026-02-25 23:28:25
+P01,2,Easy,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",4,Option1,2,2261,2026-02-25 23:28:30
+P01,3,Medium,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",3,Option1,3,2340,2026-02-25 23:28:36
+P01,1,Easy,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",10,Option2,5,2112,2026-02-25 23:28:45
+P01,2,Medium,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",9,Option2,4,1536,2026-02-25 23:28:50
+P01,3,Easy,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",8,Option2,3,2436,2026-02-25 23:28:56
+P01,1,Hard,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",10,Option2,5,2226,2026-02-25 23:29:06
+P01,2,Hard,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",9,Option2,4,2038,2026-02-25 23:29:12
+P01,3,Hard,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",7,Option2,2,1574,2026-02-25 23:29:18
+P01,1,Easy,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",10,Option2,5,1239,2026-02-25 23:37:46
+P01,2,Hard,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",3,Option1,3,1094,2026-02-25 23:37:49
+P01,3,Medium,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",8,Option2,3,1325,2026-02-25 23:37:54
+P01,1,Medium,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",1,Option1,5,1245,2026-02-25 23:38:59
+P01,2,Hard,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",7,Option2,2,1357,2026-02-25 23:39:04
+P01,3,Medium,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",4,Option1,2,1718,2026-02-25 23:39:09
+P01,1,Hard,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",1,Option1,5,2131,2026-02-25 23:39:29
+P01,2,Easy,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",9,Option2,4,1147,2026-02-25 23:39:34
+P01,3,Easy,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",8,Option2,3,1199,2026-02-25 23:39:37
+P01,1,Easy,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",10,Option2,5,43365,2026-02-25 23:40:49
+P01,2,Medium,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",8,Option2,3,36874,2026-02-25 23:41:43
+P01,3,Hard,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",1,Option1,5,1031,2026-02-25 23:41:56
+P01,1,Easy,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",8,Option2,3,1318,2026-02-25 23:47:21
+P01,2,Easy,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",2,Option1,4,1183,2026-02-25 23:47:26
+P01,3,Easy,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",5,Option1,1,1027,2026-02-25 23:47:31
+P01,1,Hard,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",3,Option1,3,2487,2026-02-25 23:48:23
+P01,2,Medium,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",8,Option2,3,1371,2026-02-25 23:48:27
+P01,3,Easy,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",3,Option1,3,1155,2026-02-25 23:48:31
+P01,1,Easy,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",10,Option2,5,1942,2026-02-25 23:48:52
+P01,2,Hard,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",3,Option1,3,1183,2026-02-25 23:48:55
+P01,3,Hard,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",6,Option2,1,1079,2026-02-25 23:48:58
+P01,1,Easy,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",9,Option2,4,2327,2026-02-25 23:54:36
+P01,2,Hard,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",7,Option2,2,1446,2026-02-25 23:54:41
+P01,3,Easy,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",6,Option2,1,28234,2026-02-25 23:55:10
+P01,1,Medium,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",9,Option2,4,7925,2026-02-26 00:03:03
+P01,2,Easy,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",10,Option2,5,1312,2026-02-26 00:03:06
+P01,3,Hard,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",3,Option1,3,2674,2026-02-26 00:03:11
+P01,1,Medium,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",8,Option2,3,1808,2026-02-26 00:03:30
+P01,2,Hard,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",1,Option1,5,1762,2026-02-26 00:03:35
+P01,3,Hard,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",10,Option2,5,2811,2026-02-26 00:03:41
+P01,1,Hard,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",4,Option1,2,1290,2026-02-26 00:53:01
+P01,2,Hard,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",1,Option1,5,1479,2026-02-26 00:53:06
+P01,3,Easy,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",4,Option1,2,1328,2026-02-26 00:53:11
+P01,1,Hard,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",6,Option2,1,57256,2026-02-27 11:24:23
+P01,2,Easy,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",8,Option2,3,1267,2026-02-27 11:24:31
+P01,3,Medium,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",10,Option2,5,2930,2026-02-27 11:24:38
+P01,1,Easy,Easy,"Which approach is more time-efficient for 
+searching in a sorted array?
+
+a. Linear Search
+b. Binary Search",10,Option2,5,3481846,2026-02-27 15:08:09
+P01,2,Hard,Medium,"Which supports runtime polymorphism?
+
+a. Method Overriding
+b. Method Overloading",6,Option2,1,1401,2026-02-27 15:08:14
+P01,3,Medium,Hard,"Which structure is used in BFS traversal?
+
+a. Queue
+b. Stack",4,Option1,2,1254,2026-02-27 15:08:20
